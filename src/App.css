@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.child1{
+  text-align: left;
+  background-color: rebeccapurple;
+}
+.child1{
+  text-align: right;
+}
