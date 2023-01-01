@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import {useNavigate} from "react-router-dom"
+import {useNavigate} from "react-router-dom";
+import "../App.css";
 
 const  Display = () => {
 

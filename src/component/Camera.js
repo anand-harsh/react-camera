@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Webcam from 'react-webcam'
+import "../App.css";
 
 
 const WebcamComponent = () => <Webcam />
@@ -17,8 +18,8 @@ const Camera = () => {
   })
   return (
     <div>
-      <h2 className="mb-5 text-center">
-        React Photo Capture using Webcam Examle
+      <h2 className="form-head">
+        FORM
       </h2>
       <div>
         {picture == '' ? (
@@ -41,7 +42,7 @@ const Camera = () => {
               e.preventDefault()
               setPicture()
             }}
-            className="btn btn-primary"
+            className="retake"
           >
             Retake
           </button>
@@ -51,7 +52,7 @@ const Camera = () => {
               e.preventDefault()
               capture()
             }}
-            className="btn btn-danger"
+            className="capture"
           >
             Capture
           </button>
