@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-camera/static/css/main.fe3e3ec7.css",
+    "main.js": "/react-camera/static/js/main.4d4c8a6a.js",
+    "static/js/787.6c99c6be.chunk.js": "/react-camera/static/js/787.6c99c6be.chunk.js",
+    "index.html": "/react-camera/index.html",
+    "main.fe3e3ec7.css.map": "/react-camera/static/css/main.fe3e3ec7.css.map",
+    "main.4d4c8a6a.js.map": "/react-camera/static/js/main.4d4c8a6a.js.map",
+    "787.6c99c6be.chunk.js.map": "/react-camera/static/js/787.6c99c6be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3e3ec7.css",
+    "static/js/main.4d4c8a6a.js"
+  ]
+}
